@@ -1,4 +1,4 @@
-# GitHubSecrets
+# Git Hub Secrets
 Repo used for showing GitHub Secrets, Tips and Tricks
 
 Also used in my [YouTube video](https://youtu.be/sGnqVAfnZ6U):
