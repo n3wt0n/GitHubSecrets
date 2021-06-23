@@ -1,9 +1,9 @@
-# GitHubSecrets
-Repo used for showing GitHub Secrets, Tips and Tricks
+# GitHub Secrets
+Repo used for showing GitHub Secrets, Tips and Tricks, and new Features
 
-Also used in my [YouTube video](https://youtu.be/sGnqVAfnZ6U):
+Also used in my a series of videos on my [YouTube channel](https://youtube.com/CoderDave):
 
-## Video
+## Video referencing this Repo
 
 If you want to see an in-depth explanation on this secrets, tips and trick for GitHub, check my video on YouTube:
 
